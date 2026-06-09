@@ -1,0 +1,4 @@
+__pycache__/
+output/video_silent.mp4
+output/sfx.wav
+*.pyc
