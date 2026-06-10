@@ -1,0 +1,6 @@
+# Regenerable build intermediates (run the 3 build scripts to recreate)
+tmp_clips/
+scenes/
+assets/ambience.wav
+__pycache__/
+*.pyc
